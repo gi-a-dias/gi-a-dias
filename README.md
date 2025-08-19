@@ -23,6 +23,8 @@ Bem-vindo ao meu perfil do GitHub! Projetos particulares e da faculdade por aqui
 ## 📊 Estatísticas do GitHub
 ![Giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=gi-a-dias&show_icons=true&theme=radical)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?gi-a-dias=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 📫 Como me encontrar
 
 - E-mail: [giovannaalmeidasdias@gmail.com]
