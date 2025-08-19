@@ -17,6 +17,8 @@ Bem-vindo ao meu perfil do GitHub! Projetos particulares e da faculdade por aqui
 ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
+## 📊 Estatísticas do GitHub
+![Giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=gi-a-dias&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
 
