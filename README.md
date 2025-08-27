@@ -9,7 +9,6 @@ Bem-vindo ao meu perfil do GitHub! Projetos particulares e da faculdade por aqui
 - 🌱 Aprendendo: 4º e 5º Semestres
 
 ## 🔧 Linguagens & Ferramentas
-💻 Java | 🐍 Python | 🌐 HTML | ⚙️ VSCode | 📊 Google Colab
 
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=white)
@@ -28,6 +27,7 @@ Bem-vindo ao meu perfil do GitHub! Projetos particulares e da faculdade por aqui
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gi-a-dias&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gi-a-dias&layout=compact&theme=radical)
+
 
 ![Visitantes](https://komarev.com/ghpvc/?username=gi-a-dias)
 
