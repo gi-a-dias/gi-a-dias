@@ -9,6 +9,7 @@ Bem-vindo ao meu perfil do GitHub! Projetos particulares e da faculdade por aqui
 - 🌱 Aprendendo: 4º e 5º Semestres
 
 ## 🔧 Linguagens & Ferramentas
+💻 Java | 🐍 Python | 🌐 HTML | ⚙️ VSCode | 📊 Google Colab
 
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=white)
@@ -18,12 +19,17 @@ Bem-vindo ao meu perfil do GitHub! Projetos particulares e da faculdade por aqui
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 ## Troféus
-[![trophy](https://github-profile-trophy.vercel.app/?gi-a-dias=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=gi-a-dias&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=gi-a-dias&theme=radical)
 
 ## 📊 Estatísticas do GitHub
-![Giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=gi-a-dias&show_icons=true&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?gi-a-dias=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gi-a-dias&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gi-a-dias&layout=compact&theme=radical)
+
+![Visitantes](https://komarev.com/ghpvc/?username=gi-a-dias)
 
 ## 📫 Como me encontrar
 
