@@ -18,6 +18,7 @@ Bem-vindo ao meu perfil do GitHub! Projetos particulares e da faculdade por aqui
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
 ## Troféus
+
 [![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=gi-a-dias&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=gi-a-dias&theme=radical)
