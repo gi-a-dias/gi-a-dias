@@ -22,14 +22,14 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://shields.io)
-![Flutter](https://shields.io)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
 ## 🏆 Troféus
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=gi-a-dias&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trofeus do Git](https://github-profile-trophy.vercel.app/?gi-a-dias=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
