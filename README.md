@@ -21,7 +21,7 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=flat-square&logo=google-colab&logoColor=white)
-![React](https://shields.io)
+![React]([https://shields.io](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://shields.io)
 ![Flutter](https://shields.io)
 
