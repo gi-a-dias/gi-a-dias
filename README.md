@@ -9,7 +9,7 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 
 - 🎓 Futura formação: Engenharia da Computação
 - 💼 Atualmente trabalhando em: Tijolão (efetivada fora da área de curso)
-- 🌱 Aprendendo: 4º e 5º Semestres
+- 🌱 Aprendendo: 5º e 6º Semestres
 
 ---
 
