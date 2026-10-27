@@ -55,21 +55,11 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 
 ---
 
-## 🎮 Git Activity
+## 📖 Versículo do Dia
 
-![snake gif](https://github.com/gi-a-dias/gi-a-dias/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## ⏳ Progresso do Ano
-
-![Progress Bar](https://year-in-progress.vercel.app/api/year-progress)
-
----
-
-## 🤖 Citação Dev do Dia
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://github.com/gi-a-dias">
+  <img align="center" src="https://daily-bible-verse-badge.vercel.app/api/verse?theme=radical" alt="Versículo do Dia" />
+</a>
 
 ---
 
