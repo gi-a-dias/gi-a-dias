@@ -32,8 +32,8 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 ## 📌 Projetos em Destaque
 
 <!-- Substitua NOME-DO-REPOSITORIO pelo nome exato dos seus repositórios -->
-<a href="https://github.com/gi-a-dias/NOME-DO-REPOSITORIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gi-a-dias&repo=horta-das-flores-front-endO&theme=radical" />
+<a href="https://github.com/gi-a-dias/Horta-das-flores-front-end">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gi-a-dias&repo=Horta-das-flores-front-end&theme=radical" />
 </a>
 
 ---
