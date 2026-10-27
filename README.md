@@ -55,11 +55,15 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 
 ---
 
-## 📖 Versículo do Dia
+## 🎮 Git Activity
 
-<a href="https://github.com/gi-a-dias">
-  <img align="center" src="https://daily-bible-verse-badge.vercel.app/api/verse?theme=radical" alt="Versículo do Dia" />
-</a>
+![Snake Animation](https://raw.githubusercontent.com/gi-a-dias/gi-a-dias/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📖 Versículo em Destaque
+
+![Bible Verse](https://bible-verse-api.vercel.app/api/daily?theme=radical)
 
 ---
 
