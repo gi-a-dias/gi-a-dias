@@ -29,7 +29,7 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 
 ## 🏆 Troféus
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gi-a-dias&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-readme-trophies.vercel.app/?username=gi-a-dias&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
