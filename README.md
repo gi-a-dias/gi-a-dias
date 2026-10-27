@@ -29,9 +29,8 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projeto em Destaque
 
-<!-- Substitua NOME-DO-REPOSITORIO pelo nome exato dos seus repositórios -->
 <a href="https://github.com/gi-a-dias/Horta-das-flores-front-end">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gi-a-dias&repo=Horta-das-flores-front-end&theme=radical" />
 </a>
@@ -53,6 +52,24 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gi-a-dias&layout=compact&theme=radical)
 
 ![Visitantes](https://komarev.com/ghpvc/?username=gi-a-dias)
+
+---
+
+## 🎮 Git Activity
+
+![snake gif](https://github.com/gi-a-dias/gi-a-dias/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## ⏳ Progresso do Ano
+
+![Progress Bar](https://year-in-progress.vercel.app/api/year-progress)
+
+---
+
+## 🤖 Citação Dev do Dia
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
