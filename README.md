@@ -33,7 +33,7 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 
 <!-- Substitua NOME-DO-REPOSITORIO pelo nome exato dos seus repositórios -->
 <a href="https://github.com/gi-a-dias/NOME-DO-REPOSITORIO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gi-a-dias&repo=NOME-DO-REPOSITORIO&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gi-a-dias&repo=horta-das-flores-front-endO&theme=radical" />
 </a>
 
 ---
