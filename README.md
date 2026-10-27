@@ -15,15 +15,26 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 
 ## 🔧 Linguagens & Ferramentas
 
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-%2300599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=flat-square&logo=google-colab&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsenetmq&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+
+<!-- Substitua NOME-DO-REPOSITORIO pelo nome exato dos seus repositórios -->
+<a href="https://github.com/gi-a-dias/NOME-DO-REPOSITORIO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gi-a-dias&repo=NOME-DO-REPOSITORIO&theme=radical" />
+</a>
 
 ---
 
@@ -45,10 +56,11 @@ Projetos particulares e da faculdade por aqui... sintam-se à vontade!
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Conecte-se comigo
 
-- E-mail: [giovannaalmeidasdias@gmail.com]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannaalmeidasdias@gmail.com)
 
 ---
 
-⭐️ Sinta-se à vontade para explorar meus projetos e conectar-se comigo!
+⭐️ *Sinta-se à vontade para explorar meus projetos e conectar-se comigo!*
